@@ -52,3 +52,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ## Acknowledgments
+
+*Final approach of style
+
+- Brian Johnson - [@BrianJ-27](https://www.frontendmentor.io/profile/BrianJ-27)
